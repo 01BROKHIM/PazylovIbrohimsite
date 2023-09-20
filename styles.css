@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(64, 170, 189);
+}
+
+h1 {
+    text-shadow: 3px 3px 1px rgb(104, 100, 109);
+}
+
+img {
+    display: block;
+    width : 500px;
+    margin : auto;
+    padding : 0 30px 30px 30px;
+}
+
+body {
+    background-color: rgb(8, 75, 122);
+    width: 800px;
+    border: 10px solid black;
+    margin : auto;
+    padding : 0 30px 30px 30px;
+}
+
